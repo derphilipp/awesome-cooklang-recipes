@@ -59,5 +59,6 @@ This is a curated list of cookbooks and recipes involving the use of the cooklan
 | - | [recipe_archive](https://github.com/tntraina/recipe_archive) | [tntraina](https://github.com/tntraina) | Repo with recipes written in Cooklang. |
 | - | [recipes](https://github.com/TyHil/recipes/tree/main/recipes) | [TyHil](https://github.com/TyHil) | Repo with recipes written in Cooklang. |
 | - | [innovation-dinner-2022](https://github.com/XpiritBV/innovation-dinner-2022) | [XpiritBV](https://github.com/XpiritBV) | Repo with recipes written in Cooklang. |
+| - | [rezepte](https://github.com/derphilipp/rezepte) | [derphilipp](https://github.com/derphilipp) | Repo with recipes written in Cooklang. |
 
 [1]: https://cooklang.org/
